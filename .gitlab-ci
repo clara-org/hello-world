@@ -1,2 +1,0 @@
-brew install golangci-lint
-golangci-lint run

@@ -1,0 +1,3 @@
+on:
+  - brew install golangci-lint
+  - make all
